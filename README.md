@@ -8,6 +8,9 @@ Iniciamos el proyecto partiendo de 7 ficheros csv que algunos guardan relación 
 
 ## Proceso
 
+[[ Se realiza un primer ejercicio en el fichero main. Posteriormente intentamos en el fichero main2 optimizar el codigo con bucles y variables dinamicas, y ampliamos un paso mas, el de insertar una pelicula nueva y ver si se actualizan las tablas ]]
+
+
 Lo primero que hemos hecho es analizar fichero por fichero para ver su contenido y entender las necesidades del proyecto
 
 Vemos que hay relación entre la tabla actor y la tabla film, pero para ello tenemos que pasar por la tala old_HDD.
@@ -19,6 +22,8 @@ Lo siguiente que hacemos es ir limpiando las tablas y subiendolas a SQL a traves
 Una vez que todo esta limpio y subido, hacemos el proceso de enlazado entre tablas.
 
 Hecho esto, podemos proceder a realizar consultas en SQL
+
+Despues de hacer nuestras consultas, probamos a insertar una pelicula nueva, y ver como se actualizan las tablas. ++ Funciona :) ++
 
 
 ## Consultas
