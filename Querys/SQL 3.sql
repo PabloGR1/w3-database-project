@@ -21,3 +21,6 @@ where old.Nombre_completo = 'PENELOPE GUINESS'
 order by Tipo_Pelicula
 ;
 
+# visualizamos tabla
+
+select * from peliculas_penelope
